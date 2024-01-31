@@ -3,7 +3,7 @@
 
 ---
 
-**Tools Used:** Python, Requests library, JSON, Pygame &nbsp;&nbsp;&nbsp;&nbsp; **Keywords:** Web scraping, Data visualization, Graphs
+**Tools Used:** Python, Requests library, JSON, Pygame &nbsp;&nbsp;&nbsp;&nbsp; **Keywords:** Web scraping, Interactive graph, Data storage
 
 ---
 
